@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "aws-sdk": "2.721.0",
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "cheerio": "1.0.0-rc.3",
     "core-decorators": "0.20.0",
     "mime-types": "2.1.27",
